@@ -1,2 +1,2 @@
-# Muta
-A programming structure that allows for live changes to programs and even self-modifiable programs.
+# SELA - Self-Modifiable Evolutionary Language
+A programming structure that is self-modifiable and conducive of evolving programs.
